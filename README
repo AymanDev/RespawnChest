@@ -1,0 +1,24 @@
+# Respawn Chest 2.0
+Upcoming new major version of old plugin
+
+## Planned features
+* Configurable chests through configs
+* Configurable chests through game interface
+* Options for saving data in SQL/NoSQL databases
+
+## Dependencies:
+* Spigot
+
+## Tested Minecraft versions:
+* [X] 1.15
+* [ ] 1.14
+* [ ] 1.13
+* [ ] 1.12
+* [ ] 1.11
+* [ ] 1.10
+* [ ] 1.9
+* [ ] 1.8
+* [ ] 1.7
+
+## Feature requests, bug reporting or questions:
+Create issue with appropriate title and description. Make your description detailed but concise.
